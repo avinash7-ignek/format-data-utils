@@ -1,0 +1,22 @@
+{
+  "name": "format-data-utils",
+  "version": "1.0.0",
+  "description": "Reusable JavaScript utility functions for formatting strings and dates with built-in runtime validation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinash7-ignek/format-data-utils.git"
+  },
+  "keywords": [
+    "NPM"
+  ],
+  "author": "Avinash Prajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinash7-ignek/format-data-utils/issues"
+  },
+  "homepage": "https://github.com/avinash7-ignek/format-data-utils#readme"
+}
